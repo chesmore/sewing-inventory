@@ -89,4 +89,4 @@ An example CSV file is provided in the `docs/raw_data` directory of this reposit
 
 ### Example Website
 
-![Output](docs/assets/example-website.png)
+![Output](docs/assets/example.png)
