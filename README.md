@@ -84,3 +84,9 @@ Sewing Pattern 1,Designer A,Dress,http://example.com/pattern1
 Sewing Pattern 2,Designer B,Top,http://example.com/pattern2
 Sewing Pattern 3,Designer C,Skirt,http://example.com/pattern3
 ```
+
+An example CSV file is provided in the `docs/raw_data` directory of this repository.
+
+### Example Website
+
+![Output](docs/assets/example-website.png)
