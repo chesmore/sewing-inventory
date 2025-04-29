@@ -1,0 +1,7 @@
+site_name: My Sewing Inventory
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Patterns: patterns.md
