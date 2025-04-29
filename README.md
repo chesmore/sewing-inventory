@@ -1,6 +1,6 @@
 ## 🧵 Sewing Patterns Viewer
 
-This site loads and displays a CSV of your sewing patterns using [MinIO](https://min.io/) as local object storage and [MkDocs](https://www.mkdocs.org/) for the site framework.
+This project builds a site for loading and displaying your sewing patterns using [MinIO](https://min.io/) as local object storage and [MkDocs](https://www.mkdocs.org/) for the site framework.
 
 ---
 
