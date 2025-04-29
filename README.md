@@ -37,7 +37,7 @@ Login using the credentials above.
 
 Create a new bucket called sewing-data.
 
-Upload your `sewing
+Upload your sewing patterns CSV file to the sewing-data bucket.
 
 ### 4: Grant Public Read Access to the Bucket
 
